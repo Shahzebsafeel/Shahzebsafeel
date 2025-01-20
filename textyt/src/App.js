@@ -9,7 +9,7 @@ function LoginForm() {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    // Perform login logic here
+    
     console.log('Logged in with:', username, password);
   };
 
